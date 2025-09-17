@@ -62,19 +62,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mfarhana11&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mfarhana11&theme=radical)
-
 ### 🔗 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://leetcode.com/your-leetcode/" target="_blank">
+  <a href="https://leetcode.com/u/Farhana11/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>
+</a>
+
   <a href="https://www.github.com/Mfarhana11" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
+
 
 
