@@ -6,6 +6,7 @@
 ⚡ I believe coffee and clean code are the best bug fixes.
 
 
+
 ### 🛠️ Languages & Frameworks
 <p>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
@@ -13,6 +14,7 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 </p>
+
 
 ### 🤖 Automation Frameworks
 <p>
@@ -23,6 +25,7 @@
   <a href="https://cucumber.io/" target="_blank"><img src="https://static.cucumber.io/img/cucumber-logo.svg" width="40" height="40"/></a>
 </p>
 
+
 ### 🧪 Testing Tools
 <p>
   <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/></a>
@@ -30,6 +33,7 @@
   <a href="https://www.browserstack.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" width="40" height="40"/></a>
   <a href="https://docs.qameta.io/allure/" target="_blank"><img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" height="40"/></a>
 </p>
+
 
 ### ☁️ Cloud & DevOps
 <p>
@@ -40,6 +44,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/></a>
 </p>
 
+
 ### 🔧 Tools & Platforms
 <p>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
@@ -48,12 +53,14 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
+</p>
+
+### 📋 Project Management & Collaboration
+<p>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40"/></a>
-  <a href="https://slack.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftteams/microsoftteams-original.svg" width="40" height="40"/></a>
-  <a href="https://www.office.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="40" height="40"/></a>
 </p>
+
 
 
 ### 📊 GitHub Stats
