@@ -8,53 +8,53 @@
 
 ### 🛠️ Languages & Frameworks
 <p>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 </p>
 
-### 🛠️ Tools & Platforms
+### 🤖 Automation Frameworks
 <p>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/confluence" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
-</a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
+  <a href="https://www.selenium.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/></a>
+  <a href="https://robotframework.org/" target="_blank"><img src="https://raw.githubusercontent.com/robotframework/robotframework/master/doc/userguide/src/images/robot-framework-logo.png" width="40" height="40"/></a>
+  <a href="https://junit.org/junit5/" target="_blank"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="40" height="40"/></a>
+  <a href="https://cucumber.io/" target="_blank"><img src="https://static.cucumber.io/img/cucumber-logo.svg" width="40" height="40"/></a>
 </p>
+
+### 🧪 Testing Tools
+<p>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/></a>
+  <a href="https://jmeter.apache.org/" target="_blank"><img src="https://jmeter.apache.org/images/jmeter.png" width="40" height="40"/></a>
+  <a href="https://www.browserstack.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" width="40" height="40"/></a>
+  <a href="https://docs.qameta.io/allure/" target="_blank"><img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" height="40"/></a>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/></a>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+  <a href="https://bitbucket.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/></a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40"/></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftteams/microsoftteams-original.svg" width="40" height="40"/></a>
+  <a href="https://www.office.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="40" height="40"/></a>
+</p>
+
 
 ### 📊 GitHub Stats
 <p>
